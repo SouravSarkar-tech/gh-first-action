@@ -10,5 +10,5 @@ jobs:
         run: echo "Done - bye!"
       - name: Print MyName
         run: |
-            echo: "Sourav"
-            echo: "Sarkar"
+            echo "Sourav"
+            echo "Sarkar"
